@@ -1,0 +1,15 @@
+F:\apz\lab3\ConsoleApp1\BLL\bin\Debug\net8.0\BLL.deps.json
+F:\apz\lab3\ConsoleApp1\BLL\bin\Debug\net8.0\BLL.dll
+F:\apz\lab3\ConsoleApp1\BLL\bin\Debug\net8.0\BLL.pdb
+F:\apz\lab3\ConsoleApp1\BLL\bin\Debug\net8.0\DAL.dll
+F:\apz\lab3\ConsoleApp1\BLL\bin\Debug\net8.0\DAL.pdb
+F:\apz\lab3\ConsoleApp1\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+F:\apz\lab3\ConsoleApp1\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\apz\lab3\ConsoleApp1\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+F:\apz\lab3\ConsoleApp1\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+F:\apz\lab3\ConsoleApp1\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+F:\apz\lab3\ConsoleApp1\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+F:\apz\lab3\ConsoleApp1\BLL\obj\Debug\net8.0\BLL.dll
+F:\apz\lab3\ConsoleApp1\BLL\obj\Debug\net8.0\refint\BLL.dll
+F:\apz\lab3\ConsoleApp1\BLL\obj\Debug\net8.0\BLL.pdb
+F:\apz\lab3\ConsoleApp1\BLL\obj\Debug\net8.0\ref\BLL.dll

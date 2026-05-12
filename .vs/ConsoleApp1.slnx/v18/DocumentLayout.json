@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\apz\\lab3\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|f:\\apz\\lab3\\consoleapp1\\bll\\services\\contentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\contentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B286F5E-1DA4-C61D-7861-80C46E44F0B3}|UI\\UI.csproj|f:\\apz\\lab3\\consoleapp1\\ui\\commands\\displayallcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B286F5E-1DA4-C61D-7861-80C46E44F0B3}|UI\\UI.csproj|solutionrelative:ui\\commands\\displayallcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B286F5E-1DA4-C61D-7861-80C46E44F0B3}|UI\\UI.csproj|f:\\apz\\lab3\\consoleapp1\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B286F5E-1DA4-C61D-7861-80C46E44F0B3}|UI\\UI.csproj|solutionrelative:ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|f:\\apz\\lab3\\consoleapp1\\dal\\entities\\contentitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\contentitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B286F5E-1DA4-C61D-7861-80C46E44F0B3}|UI\\UI.csproj|f:\\apz\\lab3\\consoleapp1\\ui\\commands\\addcontenttypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B286F5E-1DA4-C61D-7861-80C46E44F0B3}|UI\\UI.csproj|solutionrelative:ui\\commands\\addcontenttypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 303,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContentService.cs",
+              "DocumentMoniker": "F:\\apz\\lab3\\ConsoleApp1\\BLL\\Services\\ContentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ContentService.cs",
+              "ToolTip": "F:\\apz\\lab3\\ConsoleApp1\\BLL\\Services\\ContentService.cs",
+              "RelativeToolTip": "BLL\\Services\\ContentService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvwQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T17:40:19.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisplayAllCommand.cs",
+              "DocumentMoniker": "F:\\apz\\lab3\\ConsoleApp1\\UI\\Commands\\DisplayAllCommand.cs",
+              "RelativeDocumentMoniker": "UI\\Commands\\DisplayAllCommand.cs",
+              "ToolTip": "F:\\apz\\lab3\\ConsoleApp1\\UI\\Commands\\DisplayAllCommand.cs",
+              "RelativeToolTip": "UI\\Commands\\DisplayAllCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T17:39:43.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "F:\\apz\\lab3\\ConsoleApp1\\UI\\MainMenu.cs",
+              "RelativeDocumentMoniker": "UI\\MainMenu.cs",
+              "ToolTip": "F:\\apz\\lab3\\ConsoleApp1\\UI\\MainMenu.cs",
+              "RelativeToolTip": "UI\\MainMenu.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T17:32:33.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddContentTypeCommand.cs",
+              "DocumentMoniker": "F:\\apz\\lab3\\ConsoleApp1\\UI\\Commands\\AddContentTypeCommand.cs",
+              "RelativeDocumentMoniker": "UI\\Commands\\AddContentTypeCommand.cs",
+              "ToolTip": "F:\\apz\\lab3\\ConsoleApp1\\UI\\Commands\\AddContentTypeCommand.cs",
+              "RelativeToolTip": "UI\\Commands\\AddContentTypeCommand.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T17:30:36.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContentItem.cs",
+              "DocumentMoniker": "F:\\apz\\lab3\\ConsoleApp1\\DAL\\Entities\\ContentItem.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\ContentItem.cs",
+              "ToolTip": "F:\\apz\\lab3\\ConsoleApp1\\DAL\\Entities\\ContentItem.cs",
+              "RelativeToolTip": "DAL\\Entities\\ContentItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T17:29:38.093Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 131,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

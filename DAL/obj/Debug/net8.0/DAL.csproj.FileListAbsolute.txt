@@ -1,0 +1,14 @@
+F:\apz\lab3\ConsoleApp1\DAL\bin\Debug\net8.0\DAL.deps.json
+F:\apz\lab3\ConsoleApp1\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+F:\apz\lab3\ConsoleApp1\DAL\bin\Debug\net8.0\DAL.dll
+F:\apz\lab3\ConsoleApp1\DAL\bin\Debug\net8.0\DAL.pdb
+F:\apz\lab3\ConsoleApp1\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+F:\apz\lab3\ConsoleApp1\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\apz\lab3\ConsoleApp1\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+F:\apz\lab3\ConsoleApp1\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+F:\apz\lab3\ConsoleApp1\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+F:\apz\lab3\ConsoleApp1\DAL\obj\Debug\net8.0\DAL.dll
+F:\apz\lab3\ConsoleApp1\DAL\obj\Debug\net8.0\refint\DAL.dll
+F:\apz\lab3\ConsoleApp1\DAL\obj\Debug\net8.0\DAL.pdb
+F:\apz\lab3\ConsoleApp1\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+F:\apz\lab3\ConsoleApp1\DAL\obj\Debug\net8.0\ref\DAL.dll
